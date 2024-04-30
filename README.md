@@ -16,6 +16,10 @@ Methodology:
 Visualization 1: 
     
     Variables
+       
+       Age
+
+       Salary
 
 Visualization 2: 
     
