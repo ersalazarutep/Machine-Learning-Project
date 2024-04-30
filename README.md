@@ -1,5 +1,10 @@
 Salary Prediction
+
+
 Introduction
+
+
+
 Methodology:
     Logistic regression 
     Decision trees
