@@ -9,7 +9,7 @@ Methodology:
    
     Logistic regression 
 
-    Variables
+    Variables:
        
        Age
        Years of Experience
