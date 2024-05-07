@@ -1,8 +1,21 @@
-Salary Prediction
+*** Salary Prediction
 
 
-Introduction
+*** Introduction
 
+Today's job market demands accurate salary predictions for effective decision-making.
+
+Salary prediction is essential for HR recruitment processes: guides compensation, workforce planning, and talent acquisition strategies.
+
+Employers and job seekers rely on predictions for competitive offers and informed career decisions.
+
+Factors influencing salary prediction: education, experience, age, job title, industry, location, and market demand.
+
+
+*** Problem Statement
+The problem we're trying to solve is to develop accurate machine learning models that can predict salaries based on various individual attributes such as age, gender, education level, job title, and years of experience. In essence, we aim to create predictive models that can estimate a person's salary given their demographic and professional characteristics. 
+
+Determining salary requires careful consideration and depends on various factors that can get costly. Our models can help both companies and individuals in workforce planning, make career choices, get a fair compensation, and get valuable market insights. 
 
 
 Methodology:
