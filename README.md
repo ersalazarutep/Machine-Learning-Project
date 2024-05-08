@@ -86,9 +86,22 @@ Got rid of outliers
 
 ![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/5dd6313e-e224-4c3a-9eb0-9c02351f2c88)
 
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/8f64d2ea-a8da-4404-8cd5-797635cf05c3)
+
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/fb2853bf-d0d4-47bc-922c-c563c8b76baa)
+
 Target Variable Definition: The code defines a binary target variable (Above Median Salary) where the value is 1 if the salary is above the median and 0 otherwise. This makes it a binary classification problem, which is suitable for logistic regression.
 Model Selection: The code then instantiates a logistic regression model using LogisticRegression() from sklearn.linear_model. Logistic regression is specifically designed for binary classification tasks.
 Model Training and Evaluation: The model is trained on the features (X_train) and target (y_train) using .fit() method. Finally, it makes predictions on the test set (X_test) and evaluates the model's performance using metrics like accuracy and classification report.
+    
+    Linear regression
+
+
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/7eedd4a5-4d7a-478a-88bd-4adeed1ae634)
+
+
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/0f250274-b369-4ae8-b0e4-2b006a45e62d)
+
     
     Decision trees
     
