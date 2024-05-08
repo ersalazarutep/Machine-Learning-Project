@@ -42,23 +42,49 @@ Scalability: These models can efficiently handle large datasets, essential for r
 Flexibility: Machine learning provides the versatility to choose and customize different algorithms based on the data and goals.
 
 
+**** Dataset ****
 
-**** Methodology ***
+ Attributes: 
+* Age: Age of the individual in year
+
+* Gender: Gender of the individual 
+
+* Education Level: Highest level of education attained by the individual (High School, Bachelor’s, Master’s, and PhD) 
+
+* Job Title: Title of the individual current position
+
+* Year of Experience: Number of years of work experience the individual has
+
+* Salary (dependent variable): Annual salary of the individual in dollars 
+
+* 6704 rows, each row represents one individual's information, 6 columns 
+
+
+
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/afabf6bf-ec33-4ff7-a4da-cd5de0fc0209)
+
+
+-- Data Cleaning --
+
+Dropped null values
+
+Omitted titles with less than 20 counts 
+
+Combined repeating education levels
+
+Label encoding
+
+Scaled numerical features
+
+Got rid of outliers
+
+
+**** Methodology ****
    
     Logistic regression 
-
-    Variables:
        
-       Age
-       Years of Experience
-       Education Level
-       Job Title
-       Gender
-       
-![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/be01c3d3-456c-463d-b5d7-146c2c75f99e)
 
-![Uploading image.png…]()
-
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/5dd6313e-e224-4c3a-9eb0-9c02351f2c88)
 
 Target Variable Definition: The code defines a binary target variable (Above Median Salary) where the value is 1 if the salary is above the median and 0 otherwise. This makes it a binary classification problem, which is suitable for logistic regression.
 Model Selection: The code then instantiates a logistic regression model using LogisticRegression() from sklearn.linear_model. Logistic regression is specifically designed for binary classification tasks.
