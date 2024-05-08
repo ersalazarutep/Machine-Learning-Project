@@ -1,4 +1,4 @@
-*** Salary Prediction ***
+                                                                                       *** Salary Prediction ***
 
 
 *** Introduction ***
