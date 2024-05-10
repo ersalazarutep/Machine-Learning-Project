@@ -90,9 +90,7 @@ Got rid of outliers
 
 ![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/fb2853bf-d0d4-47bc-922c-c563c8b76baa)
 
-Target Variable Definition: The code defines a binary target variable (Above Median Salary) where the value is 1 if the salary is above the median and 0 otherwise. This makes it a binary classification problem, which is suitable for logistic regression.
-Model Selection: The code then instantiates a logistic regression model using LogisticRegression() from sklearn.linear_model. Logistic regression is specifically designed for binary classification tasks.
-Model Training and Evaluation: The model is trained on the features (X_train) and target (y_train) using .fit() method. Finally, it makes predictions on the test set (X_test) and evaluates the model's performance using metrics like accuracy and classification report.
+Logistic Regression: A linear model commonly used for binary classification tasks but can also be adapted for regression tasks. 
     
     Linear regression
 
@@ -102,7 +100,19 @@ Model Training and Evaluation: The model is trained on the features (X_train) an
 
 ![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/0f250274-b369-4ae8-b0e4-2b006a45e62d)
 
-    
+inear Regression: A simple and interpretable linear model that assumes a linear relationship between input features and target variable. 
+
     Decision trees
+
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/3f71fba8-f111-45fd-977a-1ab5711b1bc8)
+
+
+Decision Trees: Non-parametric models that partition the feature space into hierarchical structures to make predictions. 
     
     Random forest
+
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/34d13052-91a2-4f78-84a2-1addb6c7303f)
+
+Random Forest: An ensemble learning technique that aggregates multiple decision trees to improve predictive accuracy and robustness. 
+
+    
