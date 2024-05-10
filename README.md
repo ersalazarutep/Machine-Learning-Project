@@ -95,6 +95,9 @@ Logistic Regression: A linear model commonly used for binary classification task
     Linear regression
 
 
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/ba8630ad-1b1c-4981-91c2-43e84ae2ce73)
+
+
 ![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/7eedd4a5-4d7a-478a-88bd-4adeed1ae634)
 
 
