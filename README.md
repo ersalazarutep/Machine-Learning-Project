@@ -84,7 +84,9 @@ Got rid of outliers
     Logistic regression 
        
 
-![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/5dd6313e-e224-4c3a-9eb0-9c02351f2c88)
+
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/107660ef-c4a2-4a16-aaab-85f669a4a5de)
+
 
 ![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/8f64d2ea-a8da-4404-8cd5-797635cf05c3)
 
@@ -118,5 +120,11 @@ Random Forest: An ensemble learning technique that aggregates multiple decision 
 Support Vector Machine (SVM): A powerful supervised learning algorithm capable of handling high-dimensional data and capturing non-linear relationships through kernel functions. 
 
 
+      Conclusion
 
+
+The Random Forest model typically outperforms the SVM, with lower error scores (MSE and MAE) and a higher R² value, indicating it is more accurate and reliable for predicting salaries. The SVM might perform less optimally due to its sensitivity to how it is set up and the specific settings used. 
+
+ 
+In our analysis, we found that the most important features in predicting salary were level of experience and age. This observation aligns with intuitive expectations, as age and years of experience often go hand in hand. Typically, individuals with more years of experience tend to be older, and thus, these features are closely correlated. Consequently, it's reasonable to observe that both age and level of experience play pivotal roles in determining salary levels, with experience being the primary driver followed closely by age.
 
