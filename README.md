@@ -88,8 +88,6 @@ Got rid of outliers
 
 ![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/8f64d2ea-a8da-4404-8cd5-797635cf05c3)
 
-![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/fb2853bf-d0d4-47bc-922c-c563c8b76baa)
-
 Logistic Regression: A linear model commonly used for binary classification tasks but can also be adapted for regression tasks. 
     
     Linear regression
@@ -98,9 +96,7 @@ Logistic Regression: A linear model commonly used for binary classification task
 ![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/7eedd4a5-4d7a-478a-88bd-4adeed1ae634)
 
 
-![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/0f250274-b369-4ae8-b0e4-2b006a45e62d)
-
-inear Regression: A simple and interpretable linear model that assumes a linear relationship between input features and target variable. 
+Linear Regression: A simple and interpretable linear model that assumes a linear relationship between input features and target variable. 
 
     Decision trees
 
@@ -115,4 +111,12 @@ Decision Trees: Non-parametric models that partition the feature space into hier
 
 Random Forest: An ensemble learning technique that aggregates multiple decision trees to improve predictive accuracy and robustness. 
 
-    
+    Random forest
+
+![image](https://github.com/ersalazarutep/Machine-Learning-Project/assets/128092824/52be581d-2a1d-4407-81f0-754018f75c9e)
+
+Support Vector Machine (SVM): A powerful supervised learning algorithm capable of handling high-dimensional data and capturing non-linear relationships through kernel functions. 
+
+
+
+
